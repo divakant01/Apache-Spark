@@ -1,5 +1,5 @@
 
-Simple Test Project to configure Spark with Scala using SBT
+Simple Test Project to configure Spark with Scala using SBT,
 Assumption SBT is installed and configured
 
 Spark with SBT in Scala IDE
