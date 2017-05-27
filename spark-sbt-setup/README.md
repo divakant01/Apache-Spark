@@ -1,8 +1,9 @@
 
 Simple Test Project to configure Spark with Scala using SBT
+Assumption SBT is installed and configured
 
-Steps (Assumption SBT is installed and configured)
-===================================================
+Spark with SBT in Scala IDE
+===========================
 
 1. Create the project Directory -> mkdir /path/spark-sbt-setup
 2. cd spark-sbt-setup
